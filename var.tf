@@ -1,0 +1,4 @@
+variable "var7" {
+
+  
+}
